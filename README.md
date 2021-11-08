@@ -16,7 +16,7 @@
 <p align="left"> 
     <a href="https://www.python.com" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/Django_(web_framework)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/185px-Django_logo.svg.png"/> </a>
-    <a href="https://w7.pngwing.com" target="_blank"> <img src="https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png"/> </a>
+    <a href="https://upload.wikimedia.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/220px-Ruby_On_Rails_Logo.svg.png"/> </a>
 </p>
 
 ## Connect with me:
