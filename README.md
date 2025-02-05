@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali-PzK</h1>
-<h3 align="center">I'm a passionate Back-end Developer from Iran.</h3>
+<h3 align="center">I'm a passionate Penetration Testing and Bu Hunter.</h3>
 
 ### Hi there 👋
 
@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning Penetration Testing
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me: ali.pzk.81@gmail.com
-- ⚡ Fun fact: I play games and go to the GYM very often.
 
 <p align="left"> 
     <a href="https://www.python.com" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png"/> </a>
