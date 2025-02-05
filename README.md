@@ -7,7 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning Penetration Testing
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me: ali.pzk.81@gmail.com
 
