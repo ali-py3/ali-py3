@@ -28,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-py3&show_icons=true&locale=en" alt="ali-py3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-py3&" alt="ali-py3" /></p>
